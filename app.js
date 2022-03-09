@@ -1,5 +1,5 @@
 function mail() {
-    window.open('mailto:contact@bilsembroidery.com');
+    window.open('mailto:luckyembroiderybusiness@gmail.com');
 }
 
 function myFunction() {
